@@ -4,13 +4,13 @@
 download ngrok for local development: https://ngrok.com/download
 
 ### Step 2 Repo Clone:
-Clone this repo git clone 
+Clone this repo `git clone https://github.com/mustafaali96/Dialogflow-Classification-Chatbot.git`
 
 ### Step 3 Dialogflow: 
 Import Dialogflow chatbot *chatbot.zip*
 
 ### Step 4 Libraries:
-open cmd install req libraries: pip install -r requirements.txt
+open cmd install req libraries: `pip install -r requirements.txt`
 
 ### Step 5 Run:
 cmd > python classification.py
