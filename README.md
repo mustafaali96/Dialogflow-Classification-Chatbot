@@ -13,8 +13,8 @@ Import Dialogflow chatbot *chatbot.zip*
 open cmd install req libraries: `pip install -r requirements.txt`
 
 ### Step 5 Run:
-cmd > python classification.py
-cmd > ngrok http 5000 > copy Forwarding URL like "https://cb3d-119-157-84-137.ap.ngrok.io"
+cmd > python classification.py <br>
+cmd > ngrok http 5000 > copy Forwarding URL like "https://cb3d-119-157-84-137.ap.ngrok.io" <br>
 open dialogflow Fulfillment enable Webhook enter ngrok URL and /webhook which is app.route > https://cb3d-119-157-84-137.ap.ngrok.io/webhook and save
 
 ### Step 6 Test:
