@@ -20,5 +20,5 @@ open dialogflow Fulfillment enable Webhook enter ngrok URL and /webhook which is
 ### Step 6 Test:
 copy any image url from google <br>
 Dialogflow chat > hi <br>
-&emsp;&emsp;&emsp;> Top 4 classes in the image https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;> Top 4 classes in the image https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg
 
